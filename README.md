@@ -30,6 +30,8 @@ npm install
 npm run build
 npm start
 ```
+Make sure Postgres is running.
+
 Lastly, import data to Postgres from directory `./database/rainbow-food.csv`
 
 ## Development
