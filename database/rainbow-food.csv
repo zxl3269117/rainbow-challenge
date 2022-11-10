@@ -1,0 +1,98 @@
+name,category,count,color
+apple,fruit,0,red
+orange,fruit,0,orange
+lettuce,veggie,0,green
+yellow squash,veggie,0,yellow
+azuki beans,veggie,1,red
+beets,veggie,0,red
+cherries,fruit,0,red
+cranberries,fruit,1,red
+rhubarb,veggie,0,red
+pomegranates,fruit,0,red
+peppers,veggie,0,red
+kidney beans,veggie,0,red
+goji berry,fruit,0,red
+red potatoes,fruit,0,red
+red onions,veggie,0,red
+strawberries,fruit,0,red
+watermelons,fruit,0,red
+apricot,fruit,1,orange
+mango,fruit,1,orange
+nectarines,fruit,0,orange
+papaya,fruit,0,orange
+peaches,fruit,2,orange
+persimmons,fruit,0,orange
+pumpkins,veggie,0,orange
+carrots,veggie,0,orange
+tumerics,veggie,0,orange
+kumquat,fruit,0,orange
+asian pears,fruit,0,yellow
+banana,fruit,0,yellow
+chickpeas,veggie,0,yellow
+corn,veggie,0,yellow
+durian,fruit,0,yellow
+eggfruit,fruit,0,yellow
+ginger,veggie,0,yellow
+jackfruit,fruit,0,yellow
+lemons,fruit,1,yellow
+millet,veggie,0,yellow
+quinoa,veggie,0,yellow
+pinapples,fruit,0,yellow
+starfruit,fruit,0,yellow
+yellow bell peppers,veggie,0,yellow
+yellow onions,veggie,0,yellow
+yellow cauliflower,veggie,0,yellow
+yellow carrots,veggie,0,yellow
+plantains,fruit,0,yellow
+artichoke,veggie,0,green
+arugula,veggie,0,green
+asparagus,veggie,0,green
+avocado,fruit,0,green
+banboo shoots,veggie,0,green
+bell peppers,veggie,0,green
+bitter melon,veggie,0,green
+bok choy,veggie,0,green
+broccoli,veggie,0,green
+broccolini,veggie,0,green
+brussel sprouts,veggie,0,green
+celery,veggie,0,green
+chard,veggie,0,green
+cilentro,veggie,0,green
+collards,veggie,0,green
+cucumbers,veggie,0,green
+dandelion greens,veggie,0,green
+green apple,fruit,0,green
+fiddlehead fern,veggie,0,green
+cabbage,veggie,0,green
+kale,veggie,0,green
+kiwis,fruit,0,green
+mung beans,veggie,1,green
+mustard greens,veggie,0,green
+okra,veggie,0,green
+snow peas,veggie,0,green
+edmame,veggie,0,green
+watercress,veggie,0,green
+zucchini,veggie,0,green
+turnip green,veggie,0,green
+aloe vera,veggie,0,white
+cauliflower,veggie,0,white
+tofu,veggie,1,white
+turnip,veggie,0,white
+daikon,veggie,0,white
+white button mushrooms,veggie,0,white
+coconut,veggie,0,white
+white onions,veggie,0,white
+dates,fruit,0,tan
+mushrooms,veggie,0,tan
+taro root,veggie,0,tan
+brown lentils,veggie,2,tan
+acai berries,fruit,1,blue/purple/black
+black beans,veggie,1,blue/purple/black
+eggplant,veggie,2,blue/purple/black
+blueberries,fruit,3,blue/purple/black
+boysenberries,fruit,0,blue/purple/black
+plums,fruit,1,blue/purple/black
+prunes,fruit,0,blue/purple/black
+olives,fruit,0,blue/purple/black
+purple onions,veggie,0,blue/purple/black
+rice,veggie,0,white
