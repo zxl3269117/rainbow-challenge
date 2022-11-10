@@ -1,4 +1,6 @@
 ### node etc ###
+# Secrete keys
+.env
 
 # Logs
 logs
