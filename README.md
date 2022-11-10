@@ -7,10 +7,6 @@
 ## Demo
 [![Rainbow Challenge Demo](https://user-images.githubusercontent.com/67238418/200970905-372cf655-e98e-4682-8e95-774d9d867ad5.png)](https://www.youtube.com/watch?v=FwGYHLi69TU)
 
-<a href="https://www.youtube.com/watch?v=FwGYHLi69TU" target="_blank" rel="noopener noreferrer">
-  <img src="https://user-images.githubusercontent.com/67238418/200970905-372cf655-e98e-4682-8e95-774d9d867ad5.png" alt="app demo" />
-</a>
-
 ## Technologies Used
 - React
 - Node
