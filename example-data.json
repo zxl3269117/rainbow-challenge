@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bok choy",
+    "color": "green",
+    "category": "vegetable",
+    "count": 1
+  },
+  {
+    "name": "orange",
+    "color": "orange",
+    "category": "fruit",
+    "count": 0
+  }
+]
